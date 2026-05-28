@@ -1,0 +1,8 @@
+==================================================
+       BACTERIAL GENOME ASSEMBLY METRICS (QUAST)  
+==================================================
+Total Assembled Bases (bp) : 1000
+Total Number of Contigs    : 4
+N50 Assembly Metric (bp)   : 500
+L50 Contig Count           : 1
+Assembly Status            : HIGH-QUALITY (PASSED)

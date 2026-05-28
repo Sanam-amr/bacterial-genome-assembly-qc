@@ -1,0 +1,7 @@
+=========================================
+      GENOMIC QC PIPELINE SUMMARY        
+=========================================
+Total Processed Reads  : 100
+Surviving Reads (100%) : 100
+Dropped Low-Quality Bases: 3400 bases
+Status                 : PASSED (Phred > Q30 Average)
